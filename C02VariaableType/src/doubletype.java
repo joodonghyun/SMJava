@@ -25,7 +25,7 @@ public class doubletype {
 		System.out.println("n7a : " + n7a);
 		System.out.println("n7b : " + n7b);
 		
-		double n10 = 40000000000.0;
+		double n10 = 40000000000.0; // 4.0의 10승
 		System.out.println("n10 : " + n10);
 	}
 

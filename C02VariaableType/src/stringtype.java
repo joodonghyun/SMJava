@@ -11,7 +11,6 @@ String 변수의 각 문자(char)를 개별적으로 바꿀 수 없다
 참조타입:
  */
 
-
 public class stringtype {
 
 	public static void main(String[] args) {
