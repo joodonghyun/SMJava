@@ -14,6 +14,7 @@ public class floattype2 {
 		
 		System.out.println("f1 : " + f1);
 		System.out.println("f2 : " + f2);
+		System.out.println("f3 : " + f3);
 		System.out.println("f4 : " + f4);
 
 	}
